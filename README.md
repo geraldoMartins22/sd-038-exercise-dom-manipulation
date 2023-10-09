@@ -36,6 +36,19 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
 </details>
 
+<details>
+<summary><strong>🗓 Data de Entrega</strong></summary><br />
+
+- Este exercício é individual
+
+- Será `1` dia de exercício.
+
+- Data para entrega final do exercício: `01/11/2023 23:59`.
+
+</details>
+
+<br />
+
 # Orientações
   
 <details>
