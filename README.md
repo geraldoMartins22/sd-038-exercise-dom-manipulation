@@ -41,8 +41,6 @@ Para avaliar seus conhecimentos de HTML, você deve modificar os elementos já e
 
 - Este exercício é individual
 
-- Será `1` dia de exercício.
-
 - Data para entrega final do exercício: `08/11/2023 23:59`.
 
 </details>
